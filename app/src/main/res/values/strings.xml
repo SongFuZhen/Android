@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SortDemo</string>
+    <string name="SortNr">排序单号</string>
+    <string name="Enter">进入</string>
+    <string name="sequenceID">Sequene Sheet ID</string>
+    <string name="fromval">01</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="toval">10</string>
+    <string name="btn_Check">检查</string>
+    <string name="CheckOver">检查完成</string>
+    <string name="CheckMsg">排序检查完成，是否确认？</string>
+    <string name="sequenceID_hint">输入库位号</string>
+    <string name="sequenceIDValue_hint">输入库位的值</string>
+    <string name="Auto_Write">扫描填写</string>
+    <string name="Btn_ScanNr">扫描单号</string>
+    <string name="btn_scanlocation">库位号</string>
+    <string name="btn_scanlocationvalue">库位值</string>
+    <string name="btn_scanlocationvaluewrong">错误库位值</string>
+    <string name="btn_scanlocationwrong">错误库位号</string>
+</resources>

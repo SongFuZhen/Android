@@ -2,7 +2,7 @@
     <string name="app_name">SortDemo</string>
     <string name="SortNr">排序单号</string>
     <string name="Enter">进入</string>
-    <string name="sequenceID">Sequene Sheet ID</string>
+    <string name="sequenceID">Sequence Sheet ID</string>
     <string name="fromval">01</string>
     <string name="from">From</string>
     <string name="to">To</string>
